@@ -27,4 +27,4 @@ I'm Ricky, 18 — an open-source enthusiast who loves programming and stays cons
 
 ---
 
-<p align="center"><strong>Software is like sex: it's better when it's free.</strong></p>P
+<p align="center"><strong>Software is like sex: it's better when it's free.</strong></p>
